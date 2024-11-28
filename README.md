@@ -6,7 +6,6 @@ A simple console-based To-Do-List application written in C++.The program allows 
 - **Remove a task**: You can remove an existing task from the list by its number.
 - **View all tasks**: You can view all tasks and their descriptions.
 
-\
 # How to use 
 ## Requirements
 - **C++ Compiler** (e.g., GCC, Clang, Visual C++).
@@ -25,6 +24,7 @@ A simple console-based To-Do-List application written in C++.The program allows 
     - Make sure **C++** is selected as the language.
     - Name the project (e.g., `ToDoListApp`), and choose a location.
     - Click **Create**.
+    - or run the "To Do List.sln" using visual studio
     
 - **Add `ToDoList.cpp` to the project**:
     - Right-click on the **Source Files** folder in the **Solution Explorer** panel.
@@ -36,7 +36,7 @@ A simple console-based To-Do-List application written in C++.The program allows 
     - The program should open in the **Console Window**, and you will see the menu to add, remove, or view tasks.
     
 - **Follow the on-screen prompts** to add, remove, or view tasks.
-	If you can also run it using 
+	
 
 ## Program Menu
 Once you run the program, you'll be presented with the following menu options:

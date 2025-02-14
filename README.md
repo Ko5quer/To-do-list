@@ -15,7 +15,11 @@ A simple console-based To-Do-List application written in C++.The program allows 
     
 - **Open the project in Visual Studio**:
     - Launch Visual Studio.
-    - Click on **"Open a project or solution"**.
+    - Click on **"Open a project or solution"**.'
+    - Clone the repo using :
+    - ```
+	git clone https://github.com/Ko5quer/To-do-list.git
+      ```
     - Navigate to the folder where you cloned the repository and select **`ToDoList.cpp`**.
     
 - **Create a new project** (if needed): If you're prompted to create a new project, do the following
